@@ -15,7 +15,7 @@ toc_levels: 2..3
 }
 </style>
 
-
+ The complete code notebooks, data processing scripts, and source files for this project are available in the [project repository](https://github.com/samforwill/predict-cd-pvi). 
 
 <p align="center">
   <a href="https://2022midterms.streamlit.app/" target="_blank">
